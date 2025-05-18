@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/xiahuaxian.png</file>
+        <file>images/xieti.png</file>
+        <file>images/jiacu.png</file>
+        <file>images/chongzuo.png</file>
+        <file>images/fanhui.png</file>
+        <file>images/yuanxing.png</file>
+        <file>images/juxing.png</file>
+        <file>images/jiantou.png</file>
+        <file>images/wenzi.png</file>
+        <file>images/xianse.png</file>
+        <file>images/xiankuan.png</file>
+        <file>images/font-color.png</file>
+        <file>images/font-size.png</file>
+        <file>images/pointer.png</file>
+        <file>images/fill.png</file>
+        <file>images/grid.png</file>
+        <file>images/sugar.png</file>
+    </qresource>
+</RCC>
